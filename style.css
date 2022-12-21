@@ -1,0 +1,329 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+.logo{
+color: white;
+margin-top: 2%;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(48, 41, 41);
+    height: 13vh;  
+}
+
+ .parent{
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+} 
+
+#para
+{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.head{
+    width: 60%;
+    color: white;
+    margin-top: 2%;
+    
+}
+.fatch{
+    display: flex;
+    justify-content: space-around;
+font-size: 20px;
+margin-top: 6px;
+
+}
+.fatch li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.fatch li {
+    list-style: none;
+}
+.child{
+    padding-top: 20%;
+    color: white;
+    width: 40%;
+    padding-left: 5%;
+    
+
+}
+.parent h1{
+    
+    font-size: 80px;
+}
+.parent p{
+    font-size: 15px;
+    font-style: normal;
+}
+.bt-sm{
+    color: white;
+    background-color: darkorange;
+    border: 1px solid darkorange;
+    width: 43%;
+    height: 6vh;
+    margin-top: 2%;
+    
+}
+.watch{
+    background-color: darkorange;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    
+
+    
+    
+}
+.watch h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.watch p{
+    color: white;
+    font-size: 22px;
+}
+.pgh h1{
+font-weight: bold;
+font-size: 55px;
+
+}
+.pgh p{
+    font-family: monospace;
+    font-size: 20px;
+}
+.timer{
+    background-color: rgb(78, 71, 71);
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+
+.timer h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.timer p{
+    color: white;
+    font-size: 22px;
+}
+.bigr{
+    width: 250px;
+    height: 48px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.ptcr {
+    width: 100%;
+    display: flex;
+}
+.ptcr img{
+    width: 50%;
+    height: 100vh;
+}
+.methqa{
+    background-color: orangered;
+}
+.methqa h2{
+    padding-top: 40%;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+.methqa p{
+    color: white;
+    width: 60%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    padding-top: 4%;
+    
+}
+.typr{
+    font-size: 22px;
+    height: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    color: white;
+    background-color: rgb(53, 53, 64);
+    margin-left: 23%;
+    margin-top: 3%;
+    border: 0ch solid rgb(53, 53, 64);
+    
+}
+.math{
+    width: 50%;
+    background-color: orangered;
+height: 95vh;
+    
+    
+}
+.math h3{
+
+    padding-top: 40%;
+    font-weight: bold;
+    font-size: 50px;
+    color: white; 
+}
+.math p{
+    color: white;
+    width: 60%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    padding-top: 4%;
+     
+}
+.typrr{
+    font-size: 22px;
+    height: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
+    color: white;
+    background-color: rgb(53, 53, 64);
+    margin-left: 23%;
+    margin-top: 3%;
+    border: 0ch solid rgb(53, 53, 64);
+    
+}
+.section{
+    background-color: rgb(48, 41, 41);
+    color: white;
+    width: 100%;
+    height: 95vh;
+    
+}
+.section h1{
+    padding-top: 9%;
+    font-weight: bold;
+    font-size: 50px;
+}
+.section p{
+    width: 40%;
+    font-family: initial;
+    font-size: 17px;
+}
+.min{
+    padding: 5%;
+    display: flex;
+    
+}
+.min h1{
+
+    padding: 150px;
+}
+.part1 {
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    color: white;
+    padding: 10PX;
+}
+.part1 p{
+    padding-top: 25%;
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.part1 h1{
+ font-weight: bold;   
+ padding-top: 3%;
+ font-size: 55px;
+}
+.colour {
+    background-color: orangered;
+    width: 100%;
+    color: white;
+    /* height: 55vh; */
+    padding: 20px;
+}
+.colour h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    font-family: unset;
+}
+.colour p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    width: 45%;
+    text-align: center;
+    margin: auto;
+
+    
+}
+#text{
+    padding-left: 1%;
+    width: 25%;
+    height: 40px;
+    background-color: white;
+    border: 0ch solid white;
+
+    
+    
+}
+.name{
+    background-color:rgb(48, 41, 41) ;
+    color: white;
+height: 40px;
+    font-size: 19px;
+    width: 10%;
+    
+}
+.anju{
+    padding-top: 1%;
+
+}
+.lexsure {
+    /* height: 75vh; */
+    width: 100%;
+    background-color: rgb(48, 41, 41);
+    color: white;
+}
+
+.lexsure h1{
+    padding-top: 5%;
+    padding-left: 5%;
+    font-size: 35px;
+    
+}
+.lexsure p {
+    /* width: 27%; */
+    padding-left: 5%;
+    font-size: 17px;
+}
+.icons{
+    padding-left: 5%;
+    font-size: 29px;
+    color: white;
+}
+.mature {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-top: 30px;
+}
+.mature li{
+    list-style: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+}
